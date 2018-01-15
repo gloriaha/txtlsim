@@ -11,6 +11,8 @@
 
 # OSX / *nix default autosave extension
 *.m~
+*.csv~
+.gitignore~
 
 # Compiled MEX binaries (all platforms)
 *.mex*
